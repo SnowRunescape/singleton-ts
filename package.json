@@ -1,7 +1,7 @@
 {
   "name": "singleton-ts",
-  "version": "1.0.0",
-  "main": "build/index.js",
+  "version": "1.0.1",
+  "main": "build/Singleton.js",
   "types": "index.d.ts",
   "license": "MIT",
   "repository": {
