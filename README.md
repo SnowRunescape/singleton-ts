@@ -22,7 +22,6 @@ class Redis extends Singleton {
 
     public constructor() {
         super();
-        this.name = "SnowRunescape";
 
         this.client = new Redis("localhost");
     }
